@@ -60,6 +60,6 @@ function sort() {
         </div>
 ```
 
-#### result
+#### Result
 
-![alt text](./usage-example-result.png)
+![alt text](./shuffle-and-sort.png)
